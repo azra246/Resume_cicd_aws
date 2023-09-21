@@ -2,7 +2,6 @@ on:
   push:
     branches:
       - main
-The final .github/workflows/github-actions-ec2.yml should looks like the following
 name: Push-to-EC2
 
 # Trigger deployment only on push to main branch
